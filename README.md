@@ -1,3 +1,13 @@
+## Backend Application runs in port 8080 & front end application runs in port 3000
+
+# Backend APP setup
+- need monogo database setup 
+- update monogo uri in application properties
+- run application from Main class - DropbxApplication.java
+
+# Fronted APP setup
+- npm install to install all dependencies
+- npm start
 
 The folder structure of this application is
 - dropbox_ui [FRONTEND application]
@@ -19,7 +29,8 @@ The folder structure of this application is
 ![Screenshot (18)](https://github.com/user-attachments/assets/ac24b0d7-1362-4cc3-8574-dae8015788ee)
 
 - Error Handling : .txt file not supported
-![Screenshot (19)](https://github.com/user-attachments/assets/6d17c4f9-41b6-4d0c-b610-eddb45e6c907)
+![Screenshot (20)](https://github.com/user-attachments/assets/6e35c6e5-2baf-4b6c-82c7-9e3e8a95fa2d)
+
 
 
 
