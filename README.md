@@ -31,6 +31,15 @@ The folder structure of this application is
 - Error Handling : .txt file not supported
 ![Screenshot (20)](https://github.com/user-attachments/assets/6e35c6e5-2baf-4b6c-82c7-9e3e8a95fa2d)
 
+- API Testing using Postman
+
+![Screenshot (21)](https://github.com/user-attachments/assets/fc448605-2334-46eb-8d9d-66aecc8e7d41)
+![Screenshot (22)](https://github.com/user-attachments/assets/11c7fe02-fff6-469e-8282-dd3e17707b87)
+![Screenshot (23)](https://github.com/user-attachments/assets/bf11c759-7fdf-4845-b7ae-69efa1b14a96)
+![Screenshot (25)](https://github.com/user-attachments/assets/fa1c1afd-950c-4936-aa86-5c9f23947393)
+![Screenshot (26)](https://github.com/user-attachments/assets/9689d015-3bad-4959-944a-364b18d329d6)
+
+
 
 
 
